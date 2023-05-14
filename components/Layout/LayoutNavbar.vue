@@ -10,8 +10,8 @@
             <img
               alt="Logo"
               class="h-20 lg:h-24"
-              aria-label="Nettbutikk logo"
-              src="~/assets/svg/Logo.svg"
+              aria-label="Giant Fuzzy Dice Logo"
+              src="~/assets/images/fuzzy-dice-logo.png"
             />
           </div>
         </div>
