@@ -29,6 +29,9 @@ useHead({
 </script>
 
 <style>
+body {
+  background-color: white !important; 
+}
 .page-enter-active {
   transition: all 0.1s ease-out;
 }
