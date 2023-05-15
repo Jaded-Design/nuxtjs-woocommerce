@@ -1,10 +1,10 @@
 <template>
   <div class="container mx-auto mt-24 max-w-[84.375rem]">
     <footer
-      class="px-6 text-center bg-white border border-gray-300 rounded-lg shadow-lg"
+      class="px-6 text-center bg-white border"
     >
       <div class="p-6">
-        Copyright reserved &copy; {{ todayDate }} Daniel / w3bdesign
+        Copyright reserved &copy; {{ todayDate }} JPs Jaded Designs
       </div>
     </footer>
   </div>
